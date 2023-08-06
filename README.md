@@ -18,9 +18,8 @@ Welcome to the Open Port Scanner Tool repository! This Python-based tool allows 
 
   ## Example ✔
 
-  ```bash
-  python open_port_scanner.py
-
+ ```bash
+python open_port_scanner.py
 --[*19* is open --> chargen]
 --[*20* is open --> ftp-data]
 --[*21* is open --> ftp]
@@ -30,5 +29,6 @@ Welcome to the Open Port Scanner Tool repository! This Python-based tool allows 
 --[*443* is open --> https]
 
 Scan complete! 🎉
+ ```
 
 Happy scanning! 🕵️‍♂️🔍
